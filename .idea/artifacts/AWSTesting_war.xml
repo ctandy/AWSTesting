@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AWSTesting:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ebdemo.war">
+      <element id="artifact" artifact-name="AWSTesting:war exploded" />
+    </root>
+  </artifact>
+</component>
